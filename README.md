@@ -1,6 +1,10 @@
 HaskellNQueens
 ==============
 
+Riley Lundquist
+
+April 2014
+
 An implemenation of the NQueens problem in Haskell.
 
 Running the Program:
