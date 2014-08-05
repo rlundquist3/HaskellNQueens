@@ -6,7 +6,7 @@ An implemenation of the NQueens problem in Haskell.
 Running the Program:
 --------------------
 
-You must have ghci or hugs installed to run HaskellNQueens.
+You must have GHC or hugs installed to run HaskellNQueens.
 
 ```
 $ ghci NQueens.hs
